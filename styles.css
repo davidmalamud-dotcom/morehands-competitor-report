@@ -404,10 +404,6 @@ dd {
   font-weight: 900;
 }
 
-.hosting {
-  border-top: 1px solid var(--line);
-}
-
 .steps {
   display: grid;
   gap: 12px;
